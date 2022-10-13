@@ -1,0 +1,20 @@
+* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 16px;
+gap: 16px;
+
+position: absolute;
+width: 250px;
+height: 1090px;
+left: 20px;
+top: 20px;
+
+/* White */
+
+background: #FFFFFF;
+border-radius: 12px;
+
+
